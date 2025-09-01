@@ -1,0 +1,5 @@
+{
+  "/api/intelligent-qa/route": "app/api/intelligent-qa/route.js",
+  "/[lang]/page": "app/[lang]/page.js",
+  "/[lang]/intelligent-qa/page": "app/[lang]/intelligent-qa/page.js"
+}
